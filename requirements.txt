@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+selenium
+pandas
+pillow
+python-telegram-bot
+APScheduler
